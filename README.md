@@ -8,5 +8,5 @@ Download the zip and install in wp-admin plugins area
 ##Please note
 If you use/install this plugin on your WP site you do it at your own rusk. We will not be held responsible for any damages caused by this plugin.
 
-You are free to modify the code and re-use as you please as this is under the GNU.
+You are free to modify the code and re-use as you please as this is under the GNU. 
 https://www.gnu.org/licenses/gpl-3.0.en.html
