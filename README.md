@@ -1,5 +1,6 @@
 # simple-php-ajax-terminal-wp-plugin
 This is a very simple PHP/AJAX terminal WordPress Plugin. This Plugin allows you to have a terminal in WordPress admin area.
+Helps when you need ssh access but don't have the details.
 
 ## How to install:
 Download the zip and install in wp-admin plugins area
